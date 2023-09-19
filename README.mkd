@@ -1,0 +1,2 @@
+Resolução de Desafios Beecrowd
+Este repositório contém soluções para os desafios do Beecrowd, uma plataforma de treinamento de programação competitiva.
