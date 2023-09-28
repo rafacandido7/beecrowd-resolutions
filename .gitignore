@@ -4,3 +4,4 @@ main
 .editorconfig
 .clang-format
 Makefile
+.vscode
